@@ -1,7 +1,7 @@
 {
-    "name": "bdemirkir/json-view",
+    "name": "bdemirkir/slim-json-view",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Slim Framework 3 view helper for simple JSON API's",
     "keywords": ["slim","framework","view","helper","json"],
     "homepage": "https://github.com/bdemirkir/slim-json-view",
