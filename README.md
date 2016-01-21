@@ -23,7 +23,7 @@ $container = $app->getContainer();
 
 // Register JSON View helper
 $container['view'] = function ($c) {
-    return new \Slim\Views\JSON();
+    return new \Slim\Views\JsonView();
 };
 
 // Successful response
