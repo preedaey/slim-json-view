@@ -4,7 +4,7 @@
     "version": "0.1.1",
     "description": "Slim Framework 3 view helper for simple JSON API's",
     "keywords": ["slim","framework","view","helper","json"],
-    "homepage": "https://github.com/bdemirkir/slim-json-view",
+    "homepage": "https://gitlab.com/bdemirkir/slim-json-view",
     "license": "MIT",
     "authors": [
         {
